@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Claude Code local state
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/*
+!.vscode/settings.json
